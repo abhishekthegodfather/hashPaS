@@ -1,0 +1,27 @@
+{
+  "name": "hashpas",
+  "version": "1.0.2",
+  "description": "A Password Creator Tool which suggest strong password and Hash The password using SHA256 Algorithm. This program makes the password using the combination of small charater, capital charater, digit and special charater. And SHA256 hash code will hash the password.",
+  "main": "hashPaS.js",
+  "dependencies": {
+    "wincat": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekthegodfather/hashPaS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekthegodfather/hashPaS/issues"
+  },
+  "homepage": "https://github.com/abhishekthegodfather/hashPaS#readme", 
+  "bin": {
+    "hashPaS": "/source/hashPaS.js"
+  }
+}
