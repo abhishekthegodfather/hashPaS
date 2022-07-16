@@ -1,4 +1,4 @@
-# SngPassMkg
+# hashPas
 
 A Password Creator Tool which suggest strong password and Hash The password using SHA256 Algorithm. This program makes the password using the combination of small charater, capital charater, digit and special charater. And SHA256 hash code will hash the password. 
 
@@ -25,7 +25,7 @@ For exmaple: If i need a password of length 10, containing 5 charaters, 3 digits
 
 I/P 
 
->> sngPassMkg 10 5 3 2
+>> hashPas 10 5 3 2
 
 
 O/P 
@@ -43,7 +43,7 @@ O/P
 for need nay help type this below command in the terminal
 I/P 
 
->> sngPassMkg help
+>> hashPas help
 
 note:
   * I/P ---> means input
